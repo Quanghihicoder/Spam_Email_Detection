@@ -6,6 +6,10 @@ git clone https://github.com/Quanghihicoder/Spam_Email_Detection.git
 
 cd Spam_Email_Detection
 
+pip install sklearn
+
+
+
 Run Code:
 
 py email_detect.py <method_name>
