@@ -13,3 +13,5 @@ py email_detect.py <method_name>
 There are two methods available: LR - LogisticRegression; NB - Naive Bayes
 
 Example: py email_detect.py NB
+
+Please enter the email message in one line 
