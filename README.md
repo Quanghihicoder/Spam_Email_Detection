@@ -14,8 +14,12 @@ Run Code:
 
 py email_detect.py <method_name>
 
+On Kali: python3 email_detect.py <method_name>
+
 There are two methods available: LR - LogisticRegression; NB - Naive Bayes
 
 Example: py email_detect.py NB
 
 Please enter the email message in one line 
+
+I provide test message with correct format in test.txt
